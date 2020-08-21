@@ -1,0 +1,14 @@
+[
+	{
+		"remote":"github",
+		"repository":"tranphongvnr/9810-Kernel",
+		"target_path":"kernel/samsung/crownlte",
+		"revision":"tw10-android-4.9-q"
+	},
+	{
+		"remote":"github",
+		"repository":"LineageOS/android_hardware_samsung",
+		"target_path":"hardware/samsung",
+		"revision":"lineage-16.0"
+	}
+]
